@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Large climate data files
+*.grd
+
+# Dataset folder (NFHS, IMD, etc.)
+Dataset/
+
+# Output / intermediate files
+*.parquet
+*.csv
+
+# Mac / VSCode
+.DS_Store
+.vscode/
